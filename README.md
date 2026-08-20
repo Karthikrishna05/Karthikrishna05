@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-year B.E. CSE-(AI & ML) student and an Aspiring Software/ML Intern with strong programming skills in Python ,Java , DSA and practical experience through an internship at an IITH-incubated startup. Built end-to-end RAG-based GenAI system, deep learning models, Scalable feed system and CLI applications. Active problem solver with proficiency in RAG ,TensorFlow, LangChain, Django , Redis , Celery, Web scraping, and Data Pipelines. Passionate about building real-world AI systems, scalable softwares, backend workflows and APIs.
+4th-year B.E. CSE-(AI & ML) student and an Aspiring Software/ML Intern with strong programming skills in Python ,Java , DSA and practical experience through an internship at an IITH-incubated startup. Built end-to-end RAG-based GenAI system, deep learning models, Scalable feed system and CLI applications. Active problem solver with proficiency in RAG ,TensorFlow, LangChain, Django , Redis , Celery, Web scraping, and Data Pipelines. Passionate about building real-world AI systems, scalable softwares, backend workflows and APIs.
 
 
 ## 🌐 Socials:
